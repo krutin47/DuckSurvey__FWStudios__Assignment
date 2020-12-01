@@ -2,6 +2,10 @@
 
 a [Sails v1](https://sailsjs.com) application
 
+## BEDGE
+
+![](https://github.com/ekpangmichael/github-ci/workflows/CI/badge.svg)
+
 
 ### Links
 
